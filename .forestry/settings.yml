@@ -4,6 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: contatti
+  label: contatti
+  match: "**/*"
+- type: document
+  path: collezioni
+  label: collezioni
+  match: "**/*"
+- type: document
+  path: chisiamo
+  label: chisiamo
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
