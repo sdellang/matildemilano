@@ -1,4 +1,7 @@
 ---
 label: block template
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: block_text
+  label: block text
