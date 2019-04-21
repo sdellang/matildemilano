@@ -9,3 +9,5 @@ fields:
   config:
     min: '1'
     max: '10'
+  template_types:
+  - block-template
