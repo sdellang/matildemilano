@@ -1,4 +1,10 @@
 ---
 label: home page
 hide_body: true
-fields: []
+fields:
+- type: blocks
+  name: home_listing
+  label: home listing
+  config:
+    min: '1'
+    max: '10'
