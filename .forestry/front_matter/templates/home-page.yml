@@ -1,7 +1,6 @@
 ---
-label: home page
+label: home
 hide_body: true
-display_field: home_listing
 fields:
 - type: blocks
   name: home_listing
