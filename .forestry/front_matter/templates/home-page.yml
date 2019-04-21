@@ -3,8 +3,8 @@ label: home
 hide_body: true
 fields:
 - type: blocks
-  name: home_listing
-  label: home listing
+  name: home
+  label: home
   config:
     min: '1'
     max: '10'
