@@ -11,3 +11,5 @@ fields:
     max: '10'
   template_types:
   - block-template
+pages:
+- content/index.md
